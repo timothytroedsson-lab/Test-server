@@ -8,6 +8,12 @@
    <?php
       $version = PHP_VERSION;
       echo "<h2>Hello PHP " . $version . "<h2>";?>
+
+
+<p>lite test text</p>
+
+<h2>ÄNNU MER TEST TEXT</h2>
+
 </body>
 </html>
 <h1>Webbservern fungerar!</h1>
